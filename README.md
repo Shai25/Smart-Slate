@@ -11,7 +11,3 @@ Text view1 : User input i.e text
 Text view 2 : App output i.e faulty words and their corresponding suggestions.
 Button 1 : For submitting the text and checking it.
 Button 2 : Restart to submit another text.
-Group members: 
-Shailee Vora
-Prajakta Kulkarni
-Arsha Khan
